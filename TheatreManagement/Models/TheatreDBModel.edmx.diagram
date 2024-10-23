@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="90575f23e87d4d91b62bbe60d2289443" Name="Diagram1">
+        <EntityTypeShape EntityType="TheatreDBModel.Artist" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="TheatreDBModel.Role" Width="1.5" PointX="5.125" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TheatreDBModel.RoleEntry" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="TheatreDBModel.FK__RoleEntri__Artis__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="TheatreDBModel.FK__RoleEntri__RoleI__3C69FB99" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

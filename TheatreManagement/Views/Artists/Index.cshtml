@@ -1,0 +1,48 @@
+﻿@model IEnumerable<TheatreManagement.Models.Artist>
+@{
+    ViewBag.Title = "Index"; }
+<div class="row">
+    <div class="col">
+        <h2 class="display-4">Artist List</h2>
+        <div class="d-flex justify-content-end">
+            <a href="@Url.Action("Create","Artists")" class="btn btn-primary btn-sm mb-2"><i class="fa fa-plus-circle"></i> Add New Artist</a>
+        </div>
+        <div>
+            @foreach (var artist in Model)
+            {
+                <div class="card mb-2">
+                    <div class="card-header d-flex justify-content-between">
+                        <div>
+                            <img src="@artist.Picture" width="32" /> <label class="me-2"><b>Artist : </b>@Html.DisplayFor(x => artist.ArtistName)</label> <label class="me-2"><b>Age : </b>@Html.DisplayFor(x => artist.Age)</label>
+                            <label class="me-2"><b>Birth Date : </b>@Html.DisplayFor(x => artist.DateOfBirth)</label>
+                            <label class="me-2"><b>Status : </b>@Html.DisplayFor(x => artist.Status)</label>
+                        </div>
+                        <div>
+                            <a href="@Url.Action("Edit", "Artists", new {id=artist.ArtistId})" id="btnEntryEdit" class="btn btn-outline-success btn-sm"><i class="fa fa-pencil"></i>Edit</a>
+                            <a href="@Url.Action("Delete", "Artists", new {id=artist.ArtistId})" id="btnEntryDelete" class="btn btn-outline-danger btn-sm"><i class="fa fa-trash"></i>Delete</a>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <table class="table table-bordered table-striped table-sm table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Role Id</th>
+                                    <th>Role Title</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var c in artist.RoleEntries)
+                                {
+                                    <tr>
+                                        <td>@Html.DisplayFor(x => c.Role.RoleId)</td>
+                                        <td>@Html.DisplayFor(x => c.Role.RoleTitle)</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

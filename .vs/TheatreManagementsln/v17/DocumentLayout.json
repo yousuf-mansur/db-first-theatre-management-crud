@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|d:\\isdb-bisew\\idb classes\\module_06\\monthly may\\evidence\\md. yousuf mansur\\md. yousuf mansur\\theatremanagementsln\\theatremanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|d:\\isdb-bisew\\idb classes\\module_06\\monthly may\\evidence\\md. yousuf mansur\\md. yousuf mansur\\theatremanagementsln\\theatremanagement\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\shared\\_addnewrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\shared\\_addnewrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\artists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\artists\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\artists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|d:\\isdb-bisew\\idb classes\\module_06\\monthly may\\evidence\\md. yousuf mansur\\md. yousuf mansur\\theatremanagementsln\\theatremanagement\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\models\\viewmodels\\artistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\models\\viewmodels\\artistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\roles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\roles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\roles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\roles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\theatremanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC862732-BC41-4225-977C-7FF52272EC9D}|TheatreManagement\\TheatreManagement.csproj|solutionrelative:theatremanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Web.config",
+              "RelativeDocumentMoniker": "TheatreManagement\\Web.config",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Web.config",
+              "RelativeToolTip": "TheatreManagement\\Web.config",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-23T21:49:51.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\web.config",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\web.config",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\web.config",
+              "RelativeToolTip": "TheatreManagement\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-23T21:49:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Artists\\Create.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Artists\\Create.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Artists\\Create.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Artists\\Create.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:49.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Artists\\Index.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Artists\\Index.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Artists\\Index.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Artists\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Artists\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Artists\\Edit.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Artists\\Edit.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Artists\\Edit.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:49.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:49.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AddNewRole.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Shared\\_AddNewRole.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Shared\\_AddNewRole.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Shared\\_AddNewRole.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Shared\\_AddNewRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:49.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "TheatreManagement\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "TheatreManagement\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAUwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:39:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "TheatreManagement\\Controllers\\ArtistsController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "TheatreManagement\\Controllers\\ArtistsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:39:49.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Roles\\Edit.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Roles\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-08-13T07:39:49.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:49.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArtistViewModel.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Models\\ViewModels\\ArtistViewModel.cs",
+              "RelativeDocumentMoniker": "TheatreManagement\\Models\\ViewModels\\ArtistViewModel.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Models\\ViewModels\\ArtistViewModel.cs",
+              "RelativeToolTip": "TheatreManagement\\Models\\ViewModels\\ArtistViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:39:49.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Roles\\Delete.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Delete.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Roles\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-08-13T07:39:48.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Details.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Roles\\Details.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Roles\\Details.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Roles\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-08-13T07:39:48.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TheatreManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TheatreManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T07:39:49.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TheatreManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_06\\Monthly May\\Evidence\\Md. Yousuf Mansur\\Md. Yousuf Mansur\\TheatreManagementsln\\TheatreManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TheatreManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:39:49.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

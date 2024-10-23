@@ -1,0 +1,28 @@
+﻿@model IEnumerable<TheatreManagement.Models.Role>
+@{
+    ViewBag.Title = "Index";
+}
+<h2 class="display-4">Role List</h2>
+<p class="d-flex justify-content-end">
+    <a href="@Url.Action("Create","Roles")" class="btn btn-primary btn-sm"><i class="fa fa-plus-circle"></i>Add New Role</a>
+</p>
+<table class="table table-bordered table-striped table-sm">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RoleTitle)
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleTitle)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.RoleId }, new { @class = "btn btn-success" }) 
+                @Html.ActionLink("Delete", "Delete", new { id = item.RoleId }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+</table>

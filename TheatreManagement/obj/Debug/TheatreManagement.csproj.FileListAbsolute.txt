@@ -1,0 +1,152 @@
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\TheatreManagement.dll.config
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\TheatreManagement.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\TheatreManagement.pdb
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.Razor.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.Razor.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.csproj.CopyComplete
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.dll
+C:\Users\HP\Desktop\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.pdb
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\TheatreManagement.dll.config
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\TheatreManagement.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\TheatreManagement.pdb
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csc.exe
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csc.exe.config
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csc.rsp
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csi.exe
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csi.exe.config
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\csi.rsp
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.AppContext.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Console.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.IO.Compression.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Net.Http.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Net.Sockets.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.ValueTuple.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Xml.XPath.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\vbc.exe
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\vbc.exe.config
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\vbc.rsp
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\VBCSCompiler.exe
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\EntityFramework.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\EntityFramework.SqlServer.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Helpers.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Mvc.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Razor.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.Deployment.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.Razor.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\EntityFramework.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\EntityFramework.SqlServer.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Razor.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.Deployment.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Webpages.Razor.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Helpers.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\System.Web.Mvc.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.csproj.AssemblyReference.cache
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreM.B5FE1FE4.Up2Date
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.dll
+D:\IsDB-BISEW\IDB Classes\Module_06\Monthly May\Evidence\Md. Yousuf Mansur\Md. Yousuf Mansur\TheatreManagementsln\TheatreManagement\obj\Debug\TheatreManagement.pdb

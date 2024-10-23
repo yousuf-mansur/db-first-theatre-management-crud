@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TheatreDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Artist">
+    <Key>
+      <PropertyRef Name="ArtistId" />
+    </Key>
+    <Property Name="ArtistId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ArtistName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DateOfBirth" Type="datetime" Nullable="false" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="Picture" Type="varchar(max)" Nullable="false" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoleTitle" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RoleEntries">
+    <Key>
+      <PropertyRef Name="RoleEntriesId" />
+    </Key>
+    <Property Name="RoleEntriesId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ArtistId" Type="int" Nullable="false" />
+    <Property Name="RoleId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__RoleEntri__Artis__3B75D760">
+    <End Role="Artist" Type="Self.Artist" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="RoleEntries" Type="Self.RoleEntries" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Artist">
+        <PropertyRef Name="ArtistId" />
+      </Principal>
+      <Dependent Role="RoleEntries">
+        <PropertyRef Name="ArtistId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RoleEntri__RoleI__3C69FB99">
+    <End Role="Role" Type="Self.Role" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="RoleEntries" Type="Self.RoleEntries" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="RoleEntries">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TheatreDBModelStoreContainer">
+    <EntitySet Name="Artist" EntityType="Self.Artist" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RoleEntries" EntityType="Self.RoleEntries" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__RoleEntri__Artis__3B75D760" Association="Self.FK__RoleEntri__Artis__3B75D760">
+      <End Role="Artist" EntitySet="Artist" />
+      <End Role="RoleEntries" EntitySet="RoleEntries" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RoleEntri__RoleI__3C69FB99" Association="Self.FK__RoleEntri__RoleI__3C69FB99">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="RoleEntries" EntitySet="RoleEntries" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

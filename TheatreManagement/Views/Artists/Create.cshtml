@@ -1,0 +1,71 @@
+﻿@model TheatreManagement.Models.ViewModels.ArtistViewModel
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm("Create", "Artists", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <div class="col-6">
+            <h2 class="display-5">Artist</h2>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.ArtistName, htmlAttributes: new { @class = "col-form-label col-form-label-sm col-3" })
+                <div class="col-7">
+                    @Html.TextBoxFor(x => x.ArtistName, new { @class = "form-control form-control-sm" })
+                </div>
+                <div class="col-2">
+                    @Html.ValidationMessageFor(x => x.ArtistName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.DateOfBirth, htmlAttributes: new { @class = "col-form-label col-form-label-sm col-3" })
+                <div class="col-7">
+                    @Html.TextBoxFor(x => x.DateOfBirth, new { @class = "form-control form-control-sm", type = "date" })
+                </div>
+                <div class="col-2">
+                    @Html.ValidationMessageFor(x => x.DateOfBirth, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.Age, htmlAttributes: new { @class = "col-form-label col-form-label-sm col-3" })
+                <div class="col-7">
+                    @Html.TextBoxFor(x => x.Age, new { @class = "form-control form-control-sm" })
+                </div>
+                <div class="col-2">
+                    @Html.ValidationMessageFor(x => x.Age, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.PictureFile, htmlAttributes: new { @class = "col-form-label col-form-label-sm col-3" })
+                <div class="col-7">
+                    @Html.TextBoxFor(x => x.PictureFile, new { @class = "form-control form-control-sm", type = "file" })
+                </div>
+                <div class="col-2">
+                    @Html.ValidationMessageFor(x => x.PictureFile, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.Status, htmlAttributes: new { @class = "col-form-label col-form-label-sm col-3" })
+                <div class="col-7">
+                    @Html.CheckBoxFor(x => x.Status)
+                </div>
+                <div class="col-2">
+                    @Html.ValidationMessageFor(x => x.Status, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <h2 class="display-5">Role</h2>
+            <div class="d-flex justify-content-end">
+                <a href="#" id="btnPlus" class="btn btn-outline-primary btn-sm" style="margin-right:2px;"><i class="fa fa-plus"></i>Add Details</a>
+            </div>
+            <div id="rolesContainer">
+                @Html.Action("AddNewRole", "Artists")
+            </div>
+        </div>
+    </div>
+    <div class="d-flex justify-content-end">
+        <input type="submit" value="Save Data" class="btn btn-primary btn-sm" />
+    </div>
+}

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TheatreDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Artist">
+    <Key>
+      <PropertyRef Name="ArtistId" />
+    </Key>
+    <Property Name="ArtistId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ArtistName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="Picture" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="RoleEntries" Relationship="Self.FK__RoleEntri__Artis__3B75D760" FromRole="Artist" ToRole="RoleEntries" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleTitle" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="RoleEntries" Relationship="Self.FK__RoleEntri__RoleI__3C69FB99" FromRole="Role" ToRole="RoleEntries" />
+  </EntityType>
+  <EntityType Name="RoleEntry">
+    <Key>
+      <PropertyRef Name="RoleEntriesId" />
+    </Key>
+    <Property Name="RoleEntriesId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ArtistId" Type="Int32" Nullable="false" />
+    <Property Name="RoleId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Artist" Relationship="Self.FK__RoleEntri__Artis__3B75D760" FromRole="RoleEntries" ToRole="Artist" />
+    <NavigationProperty Name="Role" Relationship="Self.FK__RoleEntri__RoleI__3C69FB99" FromRole="RoleEntries" ToRole="Role" />
+  </EntityType>
+  <Association Name="FK__RoleEntri__Artis__3B75D760">
+    <End Role="Artist" Type="Self.Artist" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="RoleEntries" Type="Self.RoleEntry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Artist">
+        <PropertyRef Name="ArtistId" />
+      </Principal>
+      <Dependent Role="RoleEntries">
+        <PropertyRef Name="ArtistId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RoleEntri__RoleI__3C69FB99">
+    <End Role="Role" Type="Self.Role" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="RoleEntries" Type="Self.RoleEntry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="RoleEntries">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TheatreDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Artists" EntityType="Self.Artist" />
+    <EntitySet Name="Roles" EntityType="Self.Role" />
+    <EntitySet Name="RoleEntries" EntityType="Self.RoleEntry" />
+    <AssociationSet Name="FK__RoleEntri__Artis__3B75D760" Association="Self.FK__RoleEntri__Artis__3B75D760">
+      <End Role="Artist" EntitySet="Artists" />
+      <End Role="RoleEntries" EntitySet="RoleEntries" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RoleEntri__RoleI__3C69FB99" Association="Self.FK__RoleEntri__RoleI__3C69FB99">
+      <End Role="Role" EntitySet="Roles" />
+      <End Role="RoleEntries" EntitySet="RoleEntries" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

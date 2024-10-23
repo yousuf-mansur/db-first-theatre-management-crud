@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    1280670 | Md. Yousuf Mansur
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success" style="font-weight:bold;">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">NameSpace Theatre</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        @Html.ActionLink("Home", "Index", "Home", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Role", "Index", "Roles", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Artist", "Index", "Artists", new { }, new { @class = "nav-link" })
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+    <footer class="container-fluid">
+        <p class="text-center">&copy; @DateTime.Now.Year - www.namespacetheatre.com</p>
+    </footer>
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script>
+        $("#btnPlus").click(function (e) {
+            e.preventDefault();
+            var roleContainer = $("#rolesContainer");
+            $.ajax({
+                url: "/Artists/AddNewRole",
+                type: "GET",
+                success: function (data) {
+                    roleContainer.append(data);
+                }
+            });
+        });
+        $(document).on("click", "#btnDelete", function (e) {
+            e.preventDefault();
+            $(this).parent().parent().remove();
+        })
+    </script>
+</body>
+</html>
